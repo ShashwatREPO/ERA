@@ -15,6 +15,7 @@ export default function OTP() {
         <TextInput className="flex-1 border border-gray-300  text-center  text-lg rounded-md " maxLength={1} />
         <TextInput className="flex-1 border border-gray-300  text-center text-lg rounded-md" maxLength={1} />
         <TextInput className="flex-1 border border-gray-300  text-center text-lg rounded-md" maxLength={1} />
+        <TextInput className="flex-1 border border-gray-300  text-center text-lg rounded-md" maxLength={1} />
       </View>
 
       <Text className="text-blue-500 mb-8 font-bold">Resend OTP in <Text className="text-black font-bold ">30s</Text> </Text>
