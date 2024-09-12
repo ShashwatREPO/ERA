@@ -6,6 +6,7 @@ module.exports = {
       colors: {
         primary: "#2D5BFF",
         textGrey: "#747474",
+        gpsbutton: "#D2E4FC",
       },
     },
   },

@@ -20,7 +20,7 @@ export default function OTP() {
 
       <Text className="text-blue-500 mb-8 font-bold">Resend OTP in <Text className="text-black font-bold ">30s</Text> </Text>
 
-      <Link href="/GPSTracking" className="bg-primary text-center rounded-lg py-4 w-10/12 px-8 text-white font-bold">
+      <Link href="/gpsRequest" className="bg-primary text-center rounded-lg py-4 w-10/12 px-8 text-white font-bold">
         Done
       </Link>
     </View>

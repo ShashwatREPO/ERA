@@ -6,8 +6,7 @@ export default function Index() {
     <View className="flex-1">
       <ImageBackground className="flex-1  " source={require("../assets/images/added/backgroundMap.jpg")} resizeMode="cover" >
       <View
-          style={{ position: "absolute",top: 0,left: 0,right: 0,bottom: 0,backgroundColor: "rgba(255, 255, 255, 0.6)",}}
-        />
+          style={{ position: "absolute",top: 0,left: 0,right: 0,bottom: 0,backgroundColor: "rgba(255, 255, 255, 0.6)",}}/>
       <View className="flex-1 items-center justify-center">
       <Image
         source={require("../assets/images/added/siren.png")}
