@@ -26,7 +26,7 @@
 
 
 ## Deployment
-
+In the chatscreen file At line 41, change the ip Address to your local IP Address. Use ipcongig command to find your IP address.
 To get ERA up and running on your local machine for development and testing purposes, follow these steps:
 
 1. Clone the repository:
