@@ -1,7 +1,10 @@
 import { View, Text, Image, ImageBackground } from "react-native";
-import { Link } from "expo-router";
+import { Link, Redirect } from "expo-router";
+import { useRouter } from "expo-router";
 
 export default function Index() {
+  const router = useRouter();
+  
   return (
     <View className="flex-1">
       <ImageBackground className="flex-1  " source={require("../assets/images/added/backgroundMap.jpg")} resizeMode="cover" >
