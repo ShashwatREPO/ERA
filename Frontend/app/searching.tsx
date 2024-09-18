@@ -43,10 +43,6 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
   },
-  image: {
-    width: "100%",
-    height: "100%",
-  },
   text: {
     marginTop: 20,
     fontSize: 18,
